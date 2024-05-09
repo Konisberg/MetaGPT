@@ -1,5 +1,9 @@
 ### Python template
 
+# config
+config/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__
 *.py[cod]
@@ -149,7 +153,7 @@ allure-results
 
 # idea / vscode / macos
 .idea
-.DS_Store
+**/.DS_Store
 .vscode
 
 key.yaml
